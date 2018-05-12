@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '42259'
     url: http://www.gutenberg.org/2009/agents/42259
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43500#Graining-and-MarblingA-Series-of-Practical-Treatises-on-Material-Tools-and-Appliances-Used-
 gutenberg_issued: '2013-08-18'
 gutenberg_type: Text
 identifiers:
